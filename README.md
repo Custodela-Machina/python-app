@@ -14,6 +14,7 @@ illustrate solutions to mitigate each kind of attack.
 This repository contains a deliberately-vulnerable website and exercises for
 learning about different kinds of attacks.
 
+
 We'll be using the [OWASP Top 10][top10] as our topic roadmap, addressing
 subjects such as:
 
