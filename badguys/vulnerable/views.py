@@ -65,8 +65,6 @@ def code_execution(request):
         except:
             pass
 
-        first_name = request.POST.get('first_name', '')
-
         try:
             # Try it the Python 3 way...
             exec(base64.decodestring(bytes(first_name, 'ascii')))
