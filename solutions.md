@@ -9,6 +9,7 @@ Submit the form with:
 
     '; drop table users;--
 
+
 The solution is available live in the app after you've tried it.
 
 
